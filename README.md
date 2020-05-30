@@ -1,6 +1,6 @@
 # data-structures-js
 
-Basic implementation of data structures by using javascript
+Basic implementation of data structures and a few algorithms by using javascript
 
 1. FIFO queue
 2. Priority queue
